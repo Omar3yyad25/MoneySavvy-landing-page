@@ -455,8 +455,9 @@ h6 {
   padding: 10px 30px;
   border-radius: 50px;
   transition: 0.5s;
-  color: #010351;
+  color: #0E14A2;
   background: #ffffff;
+  margin-top: 20px;
 }
 
 #hero .btn-get-started:hover {
