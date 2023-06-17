@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: kelson_md
+font link: http://www.fontfabric.com/kelson-sans/
+font author: Bruno Mello
+font author site: http://www.myfonts.com/person/Bruno_Mello/
+
+
+icon designer: Lemon Liu
+icon designer link: /lemonliu
+        
+{"bg":"#1653f3","icon":"#42b3ff","font":"#ffffff","slogan":"#ffffff"}
+      
